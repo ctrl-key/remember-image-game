@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">remember image game</string>
+    <string name="congrats_msg">congrats you won</string>
+    <string name="to_continue">wanna continue??</string>
+</resources>
